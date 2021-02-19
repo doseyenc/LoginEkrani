@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="kullanıcıPlaceHolder">Username</string>
+    <string name="şifrePlaceHolder">Password</string>
+    <string name="butonText">Login</string>
+    <string name="yardımButton">Help?</string>
+</resources>
